@@ -151,7 +151,7 @@ Every write operation updates both the database and the cache simultaneously.
 
 🧠 Interview Insight:
 “I’d prefer read-through for high-traffic pages where occasional staleness is fine. For sensitive or fast-changing data, write-through gives strong consistency at the cost of write latency.”
-![alt text](image.png)
+![alt text](images/image.png)
 
 # ***REST vs GraphQL — The API Interface War***
 
